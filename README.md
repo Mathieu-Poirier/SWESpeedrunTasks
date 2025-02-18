@@ -4,7 +4,7 @@ The software/math/finance tasks I've accomplished with a speed running technique
 ## Tasks
 
 - [Learncpp.com](https://www.learncpp.com/) Speedrun Splits
-- Chapter 2 Quiz
+    - Chapter 2 Quiz
 - Chapter 3 Summary and Quiz
 - Chapter 4 Summary and Quiz
 - Chapter 5 Summary and Quiz
