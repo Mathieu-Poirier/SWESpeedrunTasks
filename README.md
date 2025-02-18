@@ -44,7 +44,18 @@ The software/math/finance tasks I've accomplished with a speed running technique
 
 - Introduction to Business Exam (University)
 
-- Introduction to Business Project
+- ~~Introduction to Business Project~~
+    - ~~Overview~~
+
+- Quantopian Lectures
+
+- Linear Algebra
+
+- Calculus
+
+- Stochastic Calculus
+
+- Primegean's DSA (practice in Python)
 
 ## Methodology
 
