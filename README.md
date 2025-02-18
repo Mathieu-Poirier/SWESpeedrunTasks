@@ -34,3 +34,11 @@ The software/math/finance tasks I've accomplished with a speed running technique
     - Chapter 27 Summary and Quiz
     - Chapter 28 I/O
     - End?
+
+- Operating Systems Exam Speedrun
+    - 
+
+## Methodology
+
+Use a timer to split up learning tasks to establish an effective end goal
+For repeatable tasks and pattern recognition you can train on the same splits repeatedly
