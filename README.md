@@ -35,8 +35,16 @@ The software/math/finance tasks I've accomplished with a speed running technique
     - Chapter 28 I/O
     - End?
 
-- Operating Systems Exam Speedrun
-    - 
+- Operating Systems Exam Speedrun (University)
+    - Chapter 1: Introduction
+    - Chapter 2: Operating-System Services
+    - Chapter 3: Processes
+    - Chapter 4: Threads & Concurrency 
+    - Chapter 5: CPU Scheduling
+
+- Introduction to Business Exam (University)
+
+- Introduction to Business Project
 
 ## Methodology
 
