@@ -36,11 +36,30 @@ The software/math/finance tasks I've accomplished with a speed running technique
     - End?
 
 - Operating Systems Exam Speedrun (University)
-    - Chapter 1: Introduction
-    - Chapter 2: Operating-System Services
-    - Chapter 3: Processes
-    - Chapter 4: Threads & Concurrency 
-    - Chapter 5: CPU Scheduling
+    - Theory
+    - Thread creation using pthread_create
+    - Thread joining (pthread_join()) and termination
+    - Extending Thread class
+    - Implementing Runnable interface
+    - Understanding how thread pools manage multiple tasks
+    - Advantages of thread pooling over creating new threads
+    - Code implementation using ExecutorService and ThreadPoolExecutor
+    - Thread creation using:
+    - Thread Pooling (ThreadPool Executors in Java)
+    - Process creation and management using fork() in C
+    - Understanding how multiple processes are created
+    - Predicting output and number of child processes
+    - Identifying different processes (orphan, zombie, etc.)
+    - Waiting Time (WT)
+    - Turnaround Time (TAT)
+    - Response Time (RT)
+    - Create A Gantt Chart Representation
+    - First-Come, First-Served (FCFS)
+    - Shortest Job Next (SJN/SJF)
+    - Round Robin (RR)
+
+
+
 
 - Introduction to Business Exam (University)
 
