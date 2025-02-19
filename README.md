@@ -57,10 +57,7 @@ The software/math/finance tasks I've accomplished with a speed running technique
     - First-Come, First-Served (FCFS)
     - Shortest Job Next (SJN/SJF)
     - Round Robin (RR)
-
-
-
-
+    
 - Introduction to Business Exam (University)
 
 - ~~Introduction to Business Project~~
