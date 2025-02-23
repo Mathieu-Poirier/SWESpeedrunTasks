@@ -73,6 +73,8 @@ The software/math/finance tasks I've accomplished with a speed running technique
 
 - Primegean's DSA (practice in Python)
 
+- Python Hill Climbing Prisoner's Dillema (University)
+
 ## Methodology
 
 Use a timer to split up learning tasks to establish an effective end goal
