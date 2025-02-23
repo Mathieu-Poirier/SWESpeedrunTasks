@@ -35,21 +35,21 @@ The software/math/finance tasks I've accomplished with a speed running technique
     - Chapter 28 I/O
     - End?
 
-- Operating Systems Exam Speedrun (University)
+- ~~Operating Systems Exam Speedrun (University)~~
     - Theory
-    - Thread creation using pthread_create
-    - Thread joining (pthread_join()) and termination
-    - Extending Thread class
-    - Implementing Runnable interface
-    - Understanding how thread pools manage multiple tasks
-    - Advantages of thread pooling over creating new threads
-    - Code implementation using ExecutorService and ThreadPoolExecutor
-    - Thread creation using:
-    - Thread Pooling (ThreadPool Executors in Java)
-    - Process creation and management using fork() in C
-    - Understanding how multiple processes are created
-    - Predicting output and number of child processes
-    - Identifying different processes (orphan, zombie, etc.)
+    - ~~Thread creation using pthread_create~~
+    - ~~Thread joining (pthread_join()) and termination~~
+    - ~~Extending Thread class~~
+    - ~~Implementing Runnable interface~~
+    - ~~Understanding how thread pools manage multiple tasks~~
+    - ~~Advantages of thread pooling over creating new threads~~
+    - ~~Code implementation using ExecutorService and ThreadPoolExecutor~~
+    - ~~Thread creation using:~~
+    - ~~Thread Pooling (ThreadPool Executors in Java)~~
+    - ~~Process creation and management using fork() in C~~
+    - ~~Understanding how multiple processes are created~~
+    - ~~Predicting output and number of child processes~~
+    - ~~Identifying different processes (orphan, zombie, etc.)~~
     - ~~Waiting Time (WT)~~
     - ~~Turnaround Time (TAT)~~
     - ~~Response Time (RT)~~
