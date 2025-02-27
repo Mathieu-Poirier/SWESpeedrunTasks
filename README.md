@@ -87,6 +87,12 @@ The software/math/finance tasks I've accomplished with a implementation and esse
 
 - Python Hill Climbing Prisoner's Dillema (University)
 
+- Implement open source bank through (OOP fundamentals in Javascript and FastAPI and a modern database)
+
+- Implement a paper in AI
+
+- Implement a physical system with graphics
+
 ## Methodology
 
 Learn by implementing examples and then create your own project around examples
