@@ -81,6 +81,10 @@ The software/math/finance tasks I've accomplished with a implementation and esse
 
 - Primegean's DSA (practice in Python)
 
+- DSA in Python
+
+- LeetCode in Python (this is more implementation specific, maybe google specific questions for different DSA)
+
 - Python Hill Climbing Prisoner's Dillema (University)
 
 ## Methodology
