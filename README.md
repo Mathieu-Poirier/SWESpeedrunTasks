@@ -1,9 +1,9 @@
 # SWESpeedrunTasks
-The software/math/finance tasks I've accomplished with a speed running technique
+The software/math/finance tasks I've accomplished with a implementation and essential knowledge technique
 
 ## Tasks
 
-- [Learncpp.com](https://www.learncpp.com/) Speedrun Splits
+- [Learncpp.com](https://www.learncpp.com/) 
     - Chapter 2 Quiz
     - Chapter 3 Summary and Quiz
     - Chapter 4 Summary and Quiz
@@ -36,7 +36,7 @@ The software/math/finance tasks I've accomplished with a speed running technique
     - End?
 
 - ~~Operating Systems Exam Speedrun (University)~~
-    - Theory
+    - ~~Theory~~
     - ~~Thread creation using pthread_create~~
     - ~~Thread joining (pthread_join()) and termination~~
     - ~~Extending Thread class~~
@@ -65,11 +65,19 @@ The software/math/finance tasks I've accomplished with a speed running technique
 
 - Quantopian Lectures
 
+- Fast.ai introduction to deep learning (create some models in Python)
+
+- Fast.ai more advanced course from deep learning to stable diffusion (create some models in Python and maybe online)
+
+- Learn OCAML through a project (Market making)
+
 - Linear Algebra
 
 - Calculus
 
 - Stochastic Calculus
+
+- Stochastic Finance in Python (book)
 
 - Primegean's DSA (practice in Python)
 
@@ -77,5 +85,4 @@ The software/math/finance tasks I've accomplished with a speed running technique
 
 ## Methodology
 
-Use a timer to split up learning tasks to establish an effective end goal
-For repeatable tasks and pattern recognition you can train on the same splits repeatedly
+Learn by implementing examples and then create your own project around examples
